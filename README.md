@@ -1,2 +1,5 @@
-# summer-job-prep
-12 week summer study repository containing: Python, DS/Algos, projects, and interview prep
+This repo tracks my 12-week plan to:
+- Refresh Python fundamentals
+- Master data structures & algorithms
+- Build two showcase projects (game + web app)
+- Simulate mock interviews
