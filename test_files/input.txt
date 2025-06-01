@@ -1,0 +1,6 @@
+This is a test line.
+Error: something went wrong.
+All good here.
+WARNING: Disk space low.
+error: cannot connect to server.
+Another normal line.
